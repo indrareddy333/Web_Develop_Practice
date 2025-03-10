@@ -70,6 +70,9 @@ I commit frequently to track changes and improvements. Each commit message refle
 - Learn and practice CSS frameworks like **Bootstrap** and **Tailwind**.
 - Explore JavaScript libraries like **React**.
 
+## Projects Live 
+Wheater App - https://indrareddy333.github.io/Web_Develop_Practice/Wether_App/
+
 ## 📢 Feedback
 I am open to constructive feedback! Feel free to create an issue or pull request if you have suggestions for improvement.
 
